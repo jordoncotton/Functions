@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-// Jordon Cotton is awesome
+// Jordon Cotton is awesome and cool
 int print(std::string input)
 {
 	std::cout << input;
